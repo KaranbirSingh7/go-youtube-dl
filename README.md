@@ -16,4 +16,3 @@ $ ./bin/go-youtube-dl
 ### Testing
 
 `make test`
-# go-youtube-dl
